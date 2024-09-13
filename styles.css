@@ -129,4 +129,6 @@ table {
   }
   
   /* Estilos anteriores mantidos, aqui você pode adicionar ou modificar conforme necessário */
-  
+  div h1{
+    size: auto;
+  }
