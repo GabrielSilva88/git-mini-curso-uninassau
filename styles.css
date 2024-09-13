@@ -129,7 +129,7 @@ table {
   }
   
   /* Estilos anteriores mantidos, aqui você pode adicionar ou modificar conforme necessário */
-  div h1{
+  div h1, h6{
     size: auto;
     color: #1351D8;
   }
